@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Faber';
+    src: url('faber-webfont.eot');
+    src: url('faber-webfont.eot?#iefix') format('embedded-opentype'),
+         url('faber-webfont.woff') format('woff'),
+         url('faber-webfont.ttf') format('truetype'),
+         url('faber-webfont.svg#Faber') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
